@@ -1,1 +1,1 @@
-# EjerciciosAda_5
+# EjerciciosAda_5= TA-TE-TI
